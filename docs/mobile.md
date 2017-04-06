@@ -55,7 +55,7 @@ you specify will be used for the console of the first device, and the port one h
 for its ADB.  The second device will use the next two ports, and so on.
 
 
-### "Welcome to Chome" UI
+### "Welcome to Chrome" UI
 
 Every time appium boots up chrome, a "Welcome to Chrome" dialog will pop up.  It won't interfere
 with your tests, since the webpage still renders underneath the dialog, and those tests access the
